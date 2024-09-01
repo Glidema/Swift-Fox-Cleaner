@@ -2,7 +2,7 @@
   <img src="https://github.com/Glidema/Swift-Fox-Cleaner/blob/main/AppIcon.png?raw=true" alt="灵狐清理大师图标" width="200"/>
 </p>
 
-# 灵狐清理大师
+<h1 align="center">灵狐清理大师</h1>
 
 灵狐清理大师是一款专为 Mac 用户设计的智能清理工具。无论你是技术小白还是资深用户，这款应用都能帮助你轻松管理电脑的存储空间。通过简单的几步操作，清理大师可以自动清理缓存文件、临时文件和不必要的垃圾文件，释放更多的存储空间。
 
