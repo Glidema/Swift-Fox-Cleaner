@@ -46,7 +46,7 @@
 
 如果您在使用 灵狐清理大师 时遇到任何问题或有任何建议，我们随时欢迎您的反馈：
 
-- 问题报告：请访问我们的 [GitHub Issues](https://github.com/Glidema/SwiftFoxCleaner/issues) 页面提交问题。
+- 问题报告：请访问我们的 [GitHub Issues](https://github.com/Glidema/Swift-Fox-Cleaner/issues) 页面提交问题。
 - 功能建议：您可以在 Issues 页面提出新功能建议，或直接提交 Pull Request。
 - 邮件支持：如果您需要更直接的帮助，请发送邮件至 naxiaoduo001@gmail.com 。
 
