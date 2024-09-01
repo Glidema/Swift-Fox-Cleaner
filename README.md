@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Glidema/Swift-Fox-Cleaner/main/AppIcon.png?token=GHSAT0AAAAAACVVABTL5WA6RLL4CQTKQ5KSZWUSGVA" alt="灵狐清理大师图标" width="200"/>
+  <img src="https://github.com/Glidema/Swift-Fox-Cleaner/blob/main/AppIcon.png?raw=true" alt="灵狐清理大师图标" width="200"/>
 </p>
 
 # 灵狐清理大师
